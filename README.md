@@ -32,5 +32,5 @@ python3 main.py <docker-image-with-tag>
 ```
 
 ### View the results:
-  The EOL Scanner will analyze the Docker images and mark any EOL programming languages.
-  Review the generated reports or logs for detailed information.
+- The EOL Scanner will analyze the Docker images and mark any EOL programming languages.
+- Review the generated reports or logs for detailed information.
