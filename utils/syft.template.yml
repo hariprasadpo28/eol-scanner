@@ -1,0 +1,7 @@
+check-for-app-update: true
+catalogers:
+  - go-module-binary
+  - java
+  - java-pom
+  - javascript-package
+  - javascript-lock
